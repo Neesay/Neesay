@@ -1,4 +1,3 @@
-<!-- waving hand GIF -->
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave" />
 <h1>
   Hey there, I’m <a href="https://github.com/YaseenAlam">Yaseen Mehraf Alam</a>
@@ -6,8 +5,7 @@
 </h1>
 
 ### 📬 Find me around the web
-<!-- badges in one horizontal line -->
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/YaseenAlam)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/Neesay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseen-alam)
 [![Website](https://img.shields.io/badge/Portfolio-0A192F?style=flat-square&logo=google-chrome&logoColor=white)](https://yaseenalam.me)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yaseenalam78@gmail.com)
@@ -15,7 +13,7 @@
 ---
 
 ### A little about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="">
-I’m a **BSc (Hons) Artificial Intelligence student at King’s College London** who loves turning ideas into products—whether that’s training language models, designing Hyperloop electronics or making the web more inclusive. Off-screen you’ll find me calling strats in Rainbow Six Siege or on a padel court.
+I’m a **BSc (Hons) Artificial Intelligence student at [King’s College London](https://www.kcl.ac.uk/)** who loves turning ideas into products, whether that’s training language models, designing Hyperloop electronics or making the web more inclusive. Off-screen you’ll find me calling strats in Rainbow Six Siege or on a padel court.
 
 ---
 
@@ -31,11 +29,7 @@ I’m a **BSc (Hons) Artificial Intelligence student at King’s College London*
 ---
 
 ### 🛠 Dev setup
-<img src="https://img.shields.io/badge/Lenovo Legion-555555?style=flat-square&logo=lenovo&logoColor=E2231A" />
-<img src="https://img.shields.io/badge/WSL Ubuntu-555555?style=flat-square&logo=ubuntu&logoColor=E95420" />
-<img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Chrome-555555?style=flat-square&logo=google-chrome" />
-<img src="https://img.shields.io/badge/Jupyter-555555?style=flat-square&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/WSL Ubuntu-555555?style=flat-square&logo=ubuntu&logoColor=E95420" /> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Chrome-555555?style=flat-square&logo=google-chrome" /> <img src="https://img.shields.io/badge/Jupyter-555555?style=flat-square&logo=jupyter&logoColor=F37626" />
 
 ### ⚙️ Tools & tech
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
