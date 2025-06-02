@@ -45,5 +45,5 @@ I’m a **BSc (Hons) Artificial Intelligence student at [King’s College London
 
 ### 🚀 GitHub stats
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=YaseenAlam&show_icons=true&theme=react&line_height=21" alt="Yaseen's GitHub stats" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=Neesay&show_icons=true&theme=react&line_height=21" alt="Yaseen's GitHub stats" />
 </p>
