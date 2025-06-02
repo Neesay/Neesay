@@ -19,11 +19,12 @@ I’m a **BSc (Hons) Artificial Intelligence student at [King’s College London
 
 ## ⚡ Quick facts
 - 🔭 **Engineering Team Member @ KCL Rocketry** & **AI Coding Trainer @ Outlier**
-- 🏆 **Marshall Wace Scholar** (£9.9 k academic merit award)
+- 🏆 **Marshall Wace Scholar** (£9.9k academic merit award)
 - 🚄 **Hyperloop Global 2024 – Braking System Award** (1 / 25 international teams)
-- 📈 1st in revenue & top-3 PnL in **Goldman Sachs algorithmic-trading sim**
-- 🌐 Built **“Accessify”** – React + FastAPI tool that adapts sites for neuro-diverse users
-- 💬 Ask me about **Python · ML/DL · Computer Vision · TinyML**
+- 📈 1st in revenue & top-3 PnL in **Goldman Sachs trading sim**
+- 📊 3rd for highest PnL in **Millennium Capital Partners algorithmic-trading sim**
+- 🌐 Built **“Accessify”** – React + FastAPI tool that adapts sites for neuro-diverse users (including filtering flashing frames that can trigger photosensitive epilepsy on any site)
+- 💬 Ask me about **Python · ML/DL · Finance · TinyML**
 - 🎉 Fun fact: I sketch digital art to unwind
 
 ---
