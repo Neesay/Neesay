@@ -39,7 +39,6 @@ I’m a **BSc (Hons) Artificial Intelligence student at [King’s College London
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"    alt="TensorFlow"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"          alt="PyTorch"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"            alt="Docker"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                  alt="Git"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"            alt="Vercel"/></code>
