@@ -52,7 +52,7 @@ I’m a **BSc (Hons) Artificial Intelligence student at [King’s College London
 
 ### 🚀 GitHub stats
 <p align="center">
-  <img width="600" src="https://nirzak-streak-stats.vercel.app?user=Neesay&theme=blood&hide_border=true&border_radius=5&card_width=600" alt="Yaseen's GitHub streak" />
+  <img width="600" src="https://nirzak-streak-stats.vercel.app?user=Neesay&theme=neon&hide_border=true&border_radius=5&card_width=600" alt="Yaseen's GitHub streak" />
   </br>
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neesay&theme=blood&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Yaseen's GitHub stats" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neesay&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Yaseen's GitHub stats" />
 </p>
